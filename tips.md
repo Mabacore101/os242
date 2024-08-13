@@ -9,12 +9,16 @@ permalink: TIPS/
 
 ### Here's three characters to fill this page
 
-![Kal'tsit](https://drive.google.com/file/d/1Hs2ZoXqXu6wsfA4VbAAAoETQhgDrVsCF/view?usp=sharing)
-![Reed the Flame Shadow](https://drive.google.com/file/d/17TcqtW2M9SitF1dHQmfHbuaklgbzJrpr/view?usp=sharing)
-![Shu](https://drive.google.com/file/d/1dZADzE4aIfvpMqdBQM2NZ21gl0mcNhr2/view?usp=sharing)
+![Kal'tsit](https://drive.google.com/uc?export=view&id=1Hs2ZoXqXu6wsfA4VbAAAoETQhgDrVsCF)
+![Reed the Flame Shadow](https://drive.google.com/uc?export=view&id=17TcqtW2M9SitF1dHQmfHbuaklgbzJrpr)
+![Shu](https://drive.google.com/uc?export=view&id=1dZADzE4aIfvpMqdBQM2NZ21gl0mcNhr2)
 
 <br>
 
-#### Acknowledgements: cbkadals os242/tips.md
+#### Acknowledgements:
+
+#### -cbkadals os242/tips.md
+
+#### -chatGPT
 
 <hr>
