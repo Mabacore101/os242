@@ -11,7 +11,7 @@ permalink: TIPS/
 
 #### Acknowledgements:
 
-#### -cbkadals os242/tips.md
+#### -cbkadal's os242/tips.md
 
 #### -chatGPT
 

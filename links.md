@@ -9,6 +9,6 @@ permalink: LINKS/
 
 <br>
 
-#### Acknowledgements: cbkadals os242/links.md
+#### Acknowledgements: cbkadal's os242/links.md
 
 <hr>
