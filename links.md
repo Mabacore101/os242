@@ -11,7 +11,7 @@ permalink: LINKS/
 
 <br>
 
-#### Acknowledgements:
+#### Acknowledgement(s):
 
 #### - cbkadal's os242/links.md
 

@@ -9,7 +9,7 @@ permalink: TIPS/
 
 <br>
 
-#### Acknowledgements:
+#### Acknowledgement(s):
 
 #### -cbkadal's os242/tips.md
 
