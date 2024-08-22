@@ -16,6 +16,8 @@
 
 #### REVXX Tue DD MM YYYY TIME
 
-#### Acknowledgement: cbkadal's os242/index.md
+#### Acknowledgement:
+
+#### - cbkadal's os242/index.md
 
 <br>
