@@ -4,7 +4,7 @@ permalink: TIPS/
 
 # TIPS
 
-- Tip#1: Use sudo to do root commands without logging to root. Example: sudo poweroff
+## Tip#1: Use sudo to do root commands without logging to root. Example: sudo poweroff
 
 ### Steps to setup sudo:
 
@@ -20,7 +20,7 @@ permalink: TIPS/
 
 ### One benefit of sudo is it reduces the number of root access to increase security.
 
-- Tip#2: Null
+## Tip#2: Null
 
 <br>
 
