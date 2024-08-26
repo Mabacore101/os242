@@ -2,5 +2,12 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
-
-Fill me please, thank you.
+ZCZC W00 3360 L84 Sleep
+ZCZC W00 70 L98 Bath
+ZCZC W00 30 L87 Breakfast
+ZCZC W00 1200 L98 Commuting to campus and back
+ZCZC W00 30 L73 Away from keyboard game farming
+ZCZC W00 1170 Attending classes
+ZCZC W00 30 L87 Lunch
+ZCZC W00 30 L87 Dinner
+ZCZC W00 30 L16 Doing Week 0 assignment #6
