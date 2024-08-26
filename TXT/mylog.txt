@@ -2,12 +2,66 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
-ZCZC W00 3360 L84 Sleep
-ZCZC W00 70 L98 Bath
-ZCZC W00 30 L87 Breakfast
-ZCZC W00 1200 L98 Commuting to campus and back
-ZCZC W00 30 L73 Away from keyboard game farming
-ZCZC W00 1170 Attending classes
-ZCZC W00 30 L87 Lunch
-ZCZC W00 30 L87 Dinner
-ZCZC W00 30 L16 Doing Week 0 assignment #6
+# Activities without ZCZC W## MINUTES tag hasn't been done.
+
+L00 General, etc.
+ZCZC W00 15 L01 SCELE/Discord related
+ZCZC W00 1170 L02 CLASSROOM/ZOOM meetings related
+L03 GitHub and git related, including commit, push, pull
+L04 GitHub Pages related
+L05 Quiz related including studying
+L06 References/Books/Documents/Browsing/GSGS related
+L07 Demo related
+L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+L09 Assignment in General
+ZCZC W00 45 L10 Assignment #00
+L11 Assignment #01
+L12 Assignment #02
+L13 Assignment #03
+L14 Assignment #04
+L15 Assignment #05
+L16 Assignment #06
+L17 Assignment #07
+L18 Assignment #08
+L19 Assignment #09
+L20 Assignment #10
+L21 Trying something
+L22 Linux CLI including tar, etc.
+L23 Bash, Regex, SED, AWK.
+L24 Scripting in general.
+L25 C-language including Make.
+L26 GnuPG, key-gen, encrypt/decrypt.
+L27 SSH, key-gen, tunneling, putty, winscp
+L28 Jekyll, including Ruby.
+L29 OS Shoping related: buy a laptop, flashdisk, etc.
+L30 Udacity: study, etc.
+L31 VirtualBox: install GNU/Linux, etc.
+L32 YouTube: watching OS related topics, etc.
+L33 Podcast incl. Spotify: listening OS related topics, etc.
+L40 TXT/ related in general.
+ZCZC W00 45 L41 TXT/mylog.txt related.
+L42 TXT/mypubkey.txt related. See also L27.
+L43 TXT/myrank.tex related, including peer review.
+L44 TXT/myscript.sh related. See also L25, L24.
+L45 TXT/SHA256SUM related
+L60 Install/Reinstall/Restore/Backup Desktop or Laptop
+L61 Install/Reinstall/Restore/Backup Virtual Box
+L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+L63 Fixing Hardware Problems
+L64 Helping a friend (OS related problem)
+L70 Studying for other courses.
+L71 Working (General)
+L72 Online Related Job, merchant, etc.
+L73 Gaming including Board Games.
+L80 Waching: Movie, YouTube, TV, Netflix, etc.
+L81 Listening: Radio, Music, etc.
+L82 Reading Book (paper or online)
+ZCZC W00 3360 L84 Relax, Rest, Nap, and Sleep
+L85 Baby Sit and/or Oma/Opa Sit
+L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W00 630 L87 Breakfast/Lunch/Dinner/Snack
+L88 Workout/Sport/Exercise/ETC.
+ZCZC W00 10 L98 Else that is not related with this Operating Systems class.
+L99 Other (...)
+
+

@@ -14,7 +14,7 @@
 
 <br><b>
 
-#### REVXX Tue DD MM YYYY TIME
+#### REV01 Mon 26 08 2024 19:50
 
 #### Acknowledgement(s):
 
