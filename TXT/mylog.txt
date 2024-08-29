@@ -5,16 +5,16 @@
 # Activities without ZCZC W## MINUTES tag hasn't been done.
 
 L00 General, etc.
-ZCZC W00 35 L01 SCELE/Discord related
+ZCZC W00 65 L01 SCELE/Discord related
 ZCZC W00 1170 L02 CLASSROOM/ZOOM meetings related
 ZCZC W00 100 L03 GitHub and git related, including commit, push, pull
 L04 GitHub Pages related
 L05 Quiz related including studying
-ZCZC W00 224 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W00 300 L06 References/Books/Documents/Browsing/GSGS related
 L07 Demo related
 L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend, etc. See also L01.
 L09 Assignment in General
-ZCZC W00 50 L10 Assignment #00
+ZCZC W00 55 L10 Assignment #00
 L11 Assignment #01
 L12 Assignment #02
 L13 Assignment #03
@@ -39,7 +39,7 @@ L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W00 20 L32 YouTube: watching OS related topics, etc.
 L33 Podcast incl. Spotify: listening OS related topics, etc.
 L40 TXT/ related in general.
-ZCZC W00 15 L41 TXT/mylog.txt related.
+ZCZC W00 25 L41 TXT/mylog.txt related.
 L42 TXT/mypubkey.txt related. See also L27.
 L43 TXT/myrank.tex related, including peer review.
 L44 TXT/myscript.sh related. See also L25, L24.
@@ -49,10 +49,10 @@ L61 Install/Reinstall/Restore/Backup Virtual Box
 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 L63 Fixing Hardware Problems
 L64 Helping a friend (OS related problem)
-ZCZC W00 77 L70 Studying for other courses.
+ZCZC W00 107 L70 Studying for other courses.
 L71 Working (General)
 L72 Online Related Job, merchant, etc.
-ZCZC W00 295 L73 Gaming including Board Games.
+ZCZC W00 375 L73 Gaming including Board Games.
 ZCZC W00 30 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 L81 Listening: Radio, Music, etc.
 L82 Reading Book (paper or online)
