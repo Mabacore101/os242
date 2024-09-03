@@ -26,14 +26,14 @@ L00 General, etc.
 ZCZC 45 L01 SCELE/Discord related
 ZCZC W01 1195 L02 CLASSROOM/ZOOM meetings related
 L03 GitHub and git related, including commit, push, pull
-L04 GitHub Pages related
+ZCZC W01 10 L04 GitHub Pages related
 L05 Quiz related including studying
 ZCZC W01 57 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W01 10 L07 Demo related
 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
 L09 Assignment in General
 L10 Assignment #00
-ZCZC W01 75 L11 Assignment #01
+ZCZC W01 95 L11 Assignment #01
 L12 Assignment #02
 L13 Assignment #03
 L14 Assignment #04
