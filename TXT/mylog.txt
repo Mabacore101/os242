@@ -23,10 +23,10 @@ ZCZC W00 1030 L98 Else that is not related with this Operating Systems class.
 
 ==========WEEK01==========
 L00 General, etc.
-ZCZC W01 215 L01 SCELE/Discord related
+ZCZC W01 260 L01 SCELE/Discord related
 ZCZC W01 1195 L02 CLASSROOM/ZOOM meetings related
-ZCZC W01 12 L03 GitHub and git related, including commit, push, pull
-ZCZC W01 10 L04 GitHub Pages related
+ZCZC W01 27 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 12 L04 GitHub Pages related
 ZCZC W01 30 L05 Quiz related including studying
 ZCZC W01 272 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W01 20 L07 Demo related
@@ -57,26 +57,26 @@ L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 60 L32 YouTube: watching OS related topics, etc.
 L33 Podcast incl. Spotify: listening OS related topics, etc.
 L40 TXT/ related in general.
-ZCZC W01 45 L41 TXT/mylog.txt related.
+ZCZC W01 50 L41 TXT/mylog.txt related.
 L42 TXT/mypubkey.txt related. See also L27.
 L43 TXT/myrank.tex related, including peer review.
 L44 TXT/myscript.sh related. See also L25, L24.
 L45 TXT/SHA256SUM related
 L60 Install/Reinstall/Restore/Backup Desktop or Laptop
 L61 Install/Reinstall/Restore/Backup Virtual Box
-ZCZC W01 90 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W01 105 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 L63 Fixing Hardware Problems
 ZCZC W01 20 L64 Helping a friend (OS related problem)
 ZCZC W01 272 L70 Studying for other courses.
 L71 Working (General)
 L72 Online Related Job, merchant, etc.
-ZCZC W01 633 L73 Gaming including Board Games.
+ZCZC W01 835 L73 Gaming including Board Games.
 L80 Watching: Movie, YouTube, TV, Netflix, etc.
 L81 Listening: Radio, Music, etc.
 L82 Reading Book (paper or online)
 ZCZC W01 3360 L84 Relax, Rest, Nap, and Sleep
-ZCZC W01 40 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W01 100 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
 ZCZC W01 630 L87 Breakfast/Lunch/Dinner/Snake
 L88 Workout/Sport/Exercise/ETC.
-ZCZC W01 900 L98 Else that is not related with this Operating Systems class.
+ZCZC W01 1080 L98 Else that is not related with this Operating Systems class.
 L99 Other (...)
