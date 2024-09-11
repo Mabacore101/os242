@@ -48,7 +48,7 @@ ZCZC W01 1080 L98 Else that is not related with this Operating Systems class.
 L00 General, etc.
 L01 SCELE/Discord related
 ZCZC W02 1195 L02 CLASSROOM/ZOOM meetings related
-ZCZC W02 15 L03 GitHub and git related, including commit, push, pull
+ZCZC W02 16 L03 GitHub and git related, including commit, push, pull
 ZCZC W02 3 L04 GitHub Pages related
 L05 Quiz related including studying
 ZCZC W02 200 L06 References/Books/Documents/Browsing/GSGS related
