@@ -46,18 +46,18 @@ ZCZC W01 1080 L98 Else that is not related with this Operating Systems class.
 
 ==========WEEK02==========
 L00 General, etc.
-ZCZC W02 220 L01 SCELE/Discord related
+ZCZC W02 250 L01 SCELE/Discord related
 ZCZC W02 1195 L02 CLASSROOM/ZOOM meetings related
-ZCZC W02 45 L03 GitHub and git related, including commit, push, pull
+ZCZC W02 50 L03 GitHub and git related, including commit, push, pull
 ZCZC W02 4 L04 GitHub Pages related
 ZCZC W02 15 L05 Quiz related including studying
 ZCZC W02 415 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W02 55 L07 Demo related
-ZCZC W02 15 L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W02 17 L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend, etc. See also L01.
 L09 Assignment in General
 L10 Assignment #00
 L11 Assignment #01
-ZCZC W02 246 L12 Assignment #02
+ZCZC W02 250 L12 Assignment #02
 L13 Assignment #03
 L14 Assignment #04
 L15 Assignment #05
@@ -67,38 +67,38 @@ L18 Assignment #08
 L19 Assignment #09
 L20 Assignment #10
 L21 Trying something
-ZCZC W02 40 L22 Linux CLI including tar, etc.
+ZCZC W02 45 L22 Linux CLI including tar, etc.
 ZCZC W02 67 L23 Bash, Regex, SED, AWK.
 ZCZC W02 62 L24 Scripting in general.
 ZCZC W02 2 L25 C-language including Make.
 ZCZC W02 30 L26 GnuPG, key-gen, encrypt/decrypt.
-ZCZC W02 12 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W02 15 L27 SSH, key-gen, tunneling, putty, winscp
 L28 Jekyll, including Ruby.
 L29 OS Shoping related: buy a laptop, flashdisk, etc.
 L30 Udacity: study, etc.
 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W02 50 L32 YouTube: watching OS related topics, etc.
 L33 Podcast incl. Spotify: listening OS related topics, etc.
-ZCZC W02 15 L40 TXT/ related in general.
-ZCZC W02 35 L41 TXT/mylog.txt related.
+ZCZC W02 20 L40 TXT/ related in general.
+ZCZC W02 40 L41 TXT/mylog.txt related.
 ZCZC W02 10 L42 TXT/mypubkey.txt related. See also L27.
 ZCZC W02 15 L43 TXT/myrank.tex related, including peer review.
-ZCZC W02 14 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W02 15 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W02 9 L45 TXT/SHA256SUM related
 L60 Install/Reinstall/Restore/Backup Desktop or Laptop
 L61 Install/Reinstall/Restore/Backup Virtual Box
-ZCZC W02 110 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W02 130 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 L63 Fixing Hardware Problems
-ZCZC W02 65 L64 Helping a friend (OS related problem)
+ZCZC W02 67 L64 Helping a friend (OS related problem)
 ZCZC W02 210 L70 Studying for other courses.
 L71 Working (General)
 L72 Online Related Job, merchant, etc.
-ZCZC W02 553 L73 Gaming including Board Games.
+ZCZC W02 712 L73 Gaming including Board Games.
 ZCZC W02 5 L80 Watching: Movie, YouTube, TV, Netflix, etc.
 L81 Listening: Radio, Music, etc.
 L82 Reading Book (paper or online)
 ZCZC W02 3360 L84 Relax, Rest, Nap, and Sleep
-ZCZC W02 54 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W02 114 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
 ZCZC W02 630 L87 Breakfast/Lunch/Dinner/Snack
 ZCZC W02 5 L88 Workout/Sport/Exercise/ETC.
 ZCZC W02 1140 L98 Else that is not related with this Operating Systems class.
