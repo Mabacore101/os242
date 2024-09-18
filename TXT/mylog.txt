@@ -4,47 +4,66 @@
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 # Activities without ZCZC W## MINUTES tag haven't been done.
 
-==========WEEK 00==========
-ZCZC W00 145 L01 SCELE/Discord related
-ZCZC W00 1195 L02 CLASROOM/ZOOM meetings related
-ZCZC W00 105 L03 GitHub and git related, including commit, push, pull
-ZCZC W00 25 L05 Quiz related including studying
-ZCZC W00 472 L06 References/Books/Documents/Browsing/GSGS related
-ZCZC W00 70 L10 Assignment #00
-ZCZC W00 20 L32 YouTube: watching OS related topics, etc.
-ZCZC W00 30 L41 TXT/mylog.txt related
-ZCZC W00 152 L70 Studying for other courses.
-ZCZC W00 669 L73 Gaming including Board Games.
-ZCZC W00 78 L80 Watching: Movie, YouTube, TV, Netflix, etc.
-ZCZC W00 3360 L84 Relax, Rest, Nap, and Sleep
-ZCZC W00 160 L86 House chore, including helping mom, pap, uncle, aunty, jaga watung, jualan kue, etc. 
-ZCZC W00 630 L87 Breakfast/Lunch/Dinner/Snack
-ZCZC W00 1030 L98 Else that is not related with this Operating Systems class.
-
-==========WEEK01==========
-ZCZC W01 260 L01 SCELE/Discord related
-ZCZC W01 1195 L02 CLASSROOM/ZOOM meetings related
-ZCZC W01 30 L03 GitHub and git related, including commit, push, pull
-ZCZC W01 12 L04 GitHub Pages related
-ZCZC W01 30 L05 Quiz related including studying
-ZCZC W01 332 L06 References/Books/Documents/Browsing/GSGS related
-ZCZC W01 20 L07 Demo related
-ZCZC W01 200 L11 Assignment #01
-ZCZC W01 120 L23 Bash, Regex, SED, AWK.
-ZCZC W01 10 L25 C-language including Make.
-ZCZC W01 150 L32 YouTube: watching OS related topics, etc.
-ZCZC W01 60 L41 TXT/mylog.txt related.
-ZCZC W01 135 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
-ZCZC W01 20 L64 Helping a friend (OS related problem)
-ZCZC W01 452 L70 Studying for other courses.
-ZCZC W01 1039 L73 Gaming including Board Games.
-ZCZC W01 3360 L84 Relax, Rest, Nap, and Sleep
-ZCZC W01 130 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
-ZCZC W01 630 L87 Breakfast/Lunch/Dinner/Snack
-ZCZC W01 10 L88 Workout/Sport/Exercise/ETC.
-ZCZC W01 1080 L98 Else that is not related with this Operating Systems class.
-
-==========WEEK02==========
+L00 General, etc.
+ZCZC W03 140 L01 SCELE/Discord related
+ZCZC W03 900 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 10 L03 GitHub and git related, including commit, push, pull
+L04 GitHub Pages related
+L05 Quiz related including studying
+ZCZC W03 317 L06 References/Books/Documents/Browsing/GSGS related
+L07 Demo related
+ZCZC W03 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+L09 Assignment in General
+L10 Assignment #00
+L11 Assignment #01
+L12 Assignment #02
+ZCZC W03 180 L13 Assignment #03
+L14 Assignment #04
+L15 Assignment #05
+L16 Assignment #06
+L17 Assignment #07
+L18 Assignment #08
+L19 Assignment #09
+L20 Assignment #10
+L21 Trying something
+ZCZC W03 40 L22 Linux CLI including tar, etc.
+L23 Bash, Regex, SED, AWK.
+L24 Scripting in general.
+L25 C-language including Make.
+L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W03 8 L27 SSH, key-gen, tunneling, putty, winscp
+L28 Jekyll, including Ruby.
+L29 OS Shoping related: buy a laptop, flashdisk, etc.
+L30 Udacity: study, etc.
+L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W03 5 L32 YouTube: watching OS related topics, etc.
+L33 Podcast incl. Spotify: listening OS related topics, etc.
+L40 TXT/ related in general.
+ZCZC W03 25 L41 TXT/mylog.txt related.
+L42 TXT/mypubkey.txt related. See also L27.
+ZCZC W03 15 L43 TXT/myrank.txt related, including peer review.
+L44 TXT/myscript.sh related. See also L25, L24.
+L45 TXT/SHA256SUM related
+L60 Install/Reinstall/Restore/Backup Desktop or Laptop
+L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W03 80 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+L63 Fixing Hardware Problems
+ZCZC W03 7 L64 Helping a friend (OS related problem)
+ZCZC W03 50 L70 Studying for other courses.
+L71 Working (General)
+ZCZC W03 30 L72 Online Related Job, merchant, etc.
+ZCZC W03 338 L73 Gaming including Board Games.
+L80 Watching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W03 40 L81 Listening: Radio, Music, etc.
+L82 Reading Book (paper or online)
+L83 Pets: feeding, playing, etc
+ZCZC W03 3360 L84 Relax, Rest, Nap, and Sleep
+L85 Baby Sit and/or Oma/Opa Sit
+ZCZC W03 22 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W03 630 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W03 5 L88 Workout/Sport/Exercise/ETC.
+ZCZC W03 960 L98 Else that is not related with this Operating Systems class.
+L99 Other (...)
 ZCZC W02 430 L01 SCELE/Discord related
 ZCZC W02 1195 L02 CLASSROOM/ZOOM meetings related
 ZCZC W02 55 L03 GitHub and git related, including commit, push, pull
@@ -78,3 +97,39 @@ ZCZC W02 164 L86 House chore, including helping mom, pap, uncle, aunty, jaga war
 ZCZC W02 630 L87 Breakfast/Lunch/Dinner/Snack
 ZCZC W02 20 L88 Workout/Sport/Exercise/ETC.
 ZCZC W02 1140 L98 Else that is not related with this Operating Systems class.
+ZCZC W01 260 L01 SCELE/Discord related
+ZCZC W01 1195 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 12 L04 GitHub Pages related
+ZCZC W01 30 L05 Quiz related including studying
+ZCZC W01 332 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W01 20 L07 Demo related
+ZCZC W01 200 L11 Assignment #01
+ZCZC W01 120 L23 Bash, Regex, SED, AWK.
+ZCZC W01 10 L25 C-language including Make.
+ZCZC W01 150 L32 YouTube: watching OS related topics, etc.
+ZCZC W01 60 L41 TXT/mylog.txt related.
+ZCZC W01 135 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W01 20 L64 Helping a friend (OS related problem)
+ZCZC W01 452 L70 Studying for other courses.
+ZCZC W01 1039 L73 Gaming including Board Games.
+ZCZC W01 3360 L84 Relax, Rest, Nap, and Sleep
+ZCZC W01 130 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W01 630 L87 Breakfast/Lunch/Dinner/Snack
+ZCZC W01 10 L88 Workout/Sport/Exercise/ETC.
+ZCZC W01 1080 L98 Else that is not related with this Operating Systems class.
+ZCZC W00 145 L01 SCELE/Discord related
+ZCZC W00 1195 L02 CLASROOM/ZOOM meetings related
+ZCZC W00 105 L03 GitHub and git related, including commit, push, pull
+ZCZC W00 25 L05 Quiz related including studying
+ZCZC W00 472 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W00 70 L10 Assignment #00
+ZCZC W00 20 L32 YouTube: watching OS related topics, etc.
+ZCZC W00 30 L41 TXT/mylog.txt related
+ZCZC W00 152 L70 Studying for other courses.
+ZCZC W00 669 L73 Gaming including Board Games.
+ZCZC W00 78 L80 Watching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W00 3360 L84 Relax, Rest, Nap, and Sleep
+ZCZC W00 160 L86 House chore, including helping mom, pap, uncle, aunty, jaga watung, jualan kue, etc. 
+ZCZC W00 630 L87 Breakfast/Lunch/Dinner/Snack
+ZCZC W00 1030 L98 Else that is not related with this Operating Systems class.
