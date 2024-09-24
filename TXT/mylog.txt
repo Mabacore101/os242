@@ -5,31 +5,31 @@
 
 ZCZC W03 420 L01 SCELE/Discord related
 ZCZC W03 1350 L02 CLASSROOM/ZOOM meetings related
-ZCZC W03 24 L03 GitHub and git related, including commit, push, pull
+ZCZC W03 26 L03 GitHub and git related, including commit, push, pull
 ZCZC W03 5 L04 GitHub Pages related
-ZCZC W03 415 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 540 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03 20 L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend, etc. See also L01.
-ZCZC W03 210 L13 Assignment #03
-ZCZC W03 56 L22 Linux CLI including tar, etc.
-ZCZC W03 17 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W03 215 L13 Assignment #03
+ZCZC W03 58 L22 Linux CLI including tar, etc.
+ZCZC W03 19 L27 SSH, key-gen, tunneling, putty, winscp
 ZCZC W03 35 L32 YouTube: watching OS related topics, etc.
-ZCZC W03 78 L40 TXT/ related in general.
-ZCZC W03 50 L41 TXT/mylog.txt related.
+ZCZC W03 85 L40 TXT/ related in general.
+ZCZC W03 55 L41 TXT/mylog.txt related.
 ZCZC W03 15 L43 TXT/myrank.txt related, including peer review.
-ZCZC W03 7 L44 TXT/myscript.sh related. See also L25, L24.
-ZCZC W03 5 L45 TXT/SHA256SUM related
+ZCZC W03 8 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W03 6 L45 TXT/SHA256SUM related
 ZCZC W03 180 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W03 17 L64 Helping a friend (OS related problem)
 ZCZC W03 134 L70 Studying for other courses.
 ZCZC W03 45 L72 Online Related Job, merchant, etc.
-ZCZC W03 923 L73 Gaming including Board Games.
+ZCZC W03 1066 L73 Gaming including Board Games.
 ZCZC W03 180 L80 Watching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W03 400 L81 Listening: Radio, Music, etc.
 ZCZC W03 4320 L84 Relax, Rest, Nap, and Sleep
 ZCZC W03 95 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
 ZCZC W03 810 L87 Breakfast/Lunch/Dinner/Snack
 ZCZC W03 20 L88 Workout/Sport/Exercise/ETC.
-ZCZC W03 1930 L98 Else that is not related with this Operating Systems class.
+ZCZC W03 2050 L98 Else that is not related with this Operating Systems class.
 ZCZC W02 430 L01 SCELE/Discord related
 ZCZC W02 1195 L02 CLASSROOM/ZOOM meetings related
 ZCZC W02 55 L03 GitHub and git related, including commit, push, pull
