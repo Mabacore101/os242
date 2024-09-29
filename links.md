@@ -14,6 +14,7 @@ permalink: LINKS/
 - [Files and File Systems](https://www.youtube.com/watch?v=KN8YgJnShPM&list=WL&index=3) --- A comprehensive video that explains the basics of file systems. This video explains the basic theories in file systems.
 - [Partitions](https://www.youtube.com/watch?v=AeUM4kR67XQ&list=WL&index=2) --- A short video that explains about partitions. This video explains what are partitions, advantges, and disadvantages.
 - [12 File Systems](https://www.youtube.com/watch?v=_h30HBYxtws&list=WL&index=1) --- A medium length video that explains 12 different file systems. This video briefly explains about file systems developed by different organizations.
+- [Addressing, Shared Lib, and Pointers](https://www.youtube.com/watch?v=aQgyZGd1MhY) --- A full lecture from Fasilkom UI about addressing, shared library, and pointers.
 - [Arknights Song Collection](https://youtube.com/playlist?list=PLYNMFG-_-1eOIeGjijtuTe124edSM1CZu&si=eP-pykvQBsP6iP_X) --- My go-to songs collection when doing assignments. If you want some music to listen, go check out this playlist.
 
 <br>
