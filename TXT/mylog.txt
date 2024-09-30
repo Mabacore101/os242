@@ -5,16 +5,16 @@
 
 # Activities without ZCZC W## MINUTES tag haven't been done.
 L00 General, etc.
-ZCZC W04 720 L01 SCELE/Discord related
+ZCZC W04 740 L01 SCELE/Discord related
 ZCZC W04 1050 L02 CLASSROOM/ZOOM meetings related
-ZCZC W04 12 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 17 L03 GitHub and git related, including commit, push, pull
 L04 GitHub Pages related
 ZCZC W04 20 L05 Quiz related including studying
-ZCZC W04 52 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 128 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W04 60 L07 Demo related
-ZCZC W04 5 L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W04 20 L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend, etc. See also L01.
 L09 Assignment in General
-ZCZC W04 60 L14 Assignment #04
+ZCZC W04 65 L14 Assignment #04
 L15 Assignment #05
 L16 Assignment #06
 L17 Assignment #07
@@ -22,33 +22,33 @@ L18 Assignment #08
 L19 Assignment #09
 L20 Assignment #10
 L21 Trying something
-ZCZC W04 25 L22 Linux CLI including tar, etc.
+ZCZC W04 27 L22 Linux CLI including tar, etc.
 L23 Bash, Regex, SED, AWK.
 L24 Scripting in general.
 L25 C-language including Make.
 L26 GnuPG, key-gen, encrypt/decrypt.
-ZCZC W04 7 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W04 9 L27 SSH, key-gen, tunneling, putty, winscp
 L28 Jekyll, including Ruby.
 L29 OS Shopping related: buy a laptop, flashdisk, etc.
 L30 Udacity: study, etc.
 L31 VirtualBox: install GNU/Linux, etc.
 L32 YouTube: watching OS related topics, etc.
 L33 Podcast incl. Spotify: listening OS related topics, etc.
-ZCZC W04 46 L40 TXT/ related in general.
-ZCZC W04 30 L41 TXT/mylog.txt related.
+ZCZC W04 53 L40 TXT/ related in general.
+ZCZC W04 35 L41 TXT/mylog.txt related.
 L42 TXT/mypubkey.txt related. See also L27.
 ZCZC W04 10 L43 TXT/myrank.tex related, including peer review.
-ZCZC W04 4 L44 TXT/myscript.sh related. See also L25, L24.
-ZCZC W04 2 L45 TXT/SHA256SUM related
+ZCZC W04 5 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W04 3 L45 TXT/SHA256SUM related
 L60 Install/Reinstall/Restore/Backup Desktop or Laptop
 L61 Install/Reinstall/Restore/Backup Virtual Box
-ZCZC W04 50 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W04 60 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 L63 Fixing Hardware Problems
-L64 Helping a friend (OS related problem)
+ZCZC W04 20 L64 Helping a friend (OS related problem)
 ZCZC W04 119 L70 Studying for other courses.
 L71 Working (General)
 L72 Online Related Job, merchant, etc.
-ZCZC W04 611 L73 Gaming including Board Games.
+ZCZC W04 712 L73 Gaming including Board Games.
 ZCZC W04 42 L80 Watching: Movie, YouTube, TV, Netflix, etc.
 L81 Listening: Radio, Music, etc.
 L82 Reading Book (paper or online)
