@@ -3,55 +3,37 @@
 # LogCode + Description List
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
-#Activities without ZCZC haven't been done.
-
-L00 General, etc.
-ZCZC W05 275 L01 SCELE/Discord related
+ZCZC W05 280 L01 SCELE/Discord related
 ZCZC W05 1200 L02 CLASSROOM/ZOOM meetings related
-ZCZC W05 18 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 23 L03 GitHub and git related, including commit, push, pull
 ZCZC W05 5 L04 GitHub Pages related
 ZCZC W05 20 L05 Quiz related including studying
-ZCZC W05 101 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 144 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W05 100 L07 Demo related
-ZCZC W05 15 L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend, etc. See also L01.
-L09 Assignment in General
-ZCZC W05 220 L15 Assignment #05
-L21 Trying something
-ZCZC W05 28 L22 Linux CLI including tar, etc.
+ZCZC W05 25 L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W05 225 L15 Assignment #05
+ZCZC W05 32 L22 Linux CLI including tar, etc.
 ZCZC W05 5 L23 Bash, Regex, SED, AWK.
-L24 Scripting in general.
 ZCZC W05 20 L25 C-language including Make.
-ZCZC W05 13 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W05 16 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W05 17 L27 SSH, key-gen, tunneling, putty, winscp
-L28 Jekyll, including Ruby.
-L29 OS Shoping related: buy a laptop, flashdisk, etc.
-L30 Udacity: study, etc.
-L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W03 39 L32 YouTube: watching OS related topics, etc.
-ZCZC W05 43 L40 TXT/ related in general.
-ZCZC W05 30 L41 TXT/mylog.txt related.
-L42 TXT/mypubkey.txt related. See also L27.
+ZCZC W05 55 L40 TXT/ related in general.
+ZCZC W05 35 L41 TXT/mylog.txt related.
 ZCZC W05 10 L43 TXT/myrank.txt related, including peer review.
-ZCZC W05 3 L44 TXT/myscript.sh related. See also L25, L24.
-ZCZC W05 2 L45 TXT/SHA256SUM related
-L60 Install/Reinstall/Restore/Backup Desktop or Laptop
-L61 Install/Reinstall/Restore/Backup Virtual Box
-ZCZC W05 90 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
-L63 Fixing Hardware Problems
-ZCZC W05 20 L64 Helping a friend (OS related problem)
-ZCZC W05 129 L70 Studying for other courses.
-L71 Working (General)
+ZCZC W05 4 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W05 3 L45 TXT/SHA256SUM related
+ZCZC W05 105 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W05 30 L64 Helping a friend (OS related problem)
+ZCZC W05 174 L70 Studying for other courses.
 ZCZC W05 5 L72 Online Related Job, merchant, etc.
-ZCZC W05 725 L73 Gaming including Board Games.
-ZCZC W05 165 L80 Watching: Movie, YouTube, TV, Netflix, etc.
-ZCZC W05 240 L81 Listening: Radio, Music, etc.
-L82 Reading Book (paper or online)
+ZCZC W05 832 L73 Gaming including Board Games.
+ZCZC W05 177 L80 Watching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W05 304 L81 Listening: Radio, Music, etc.
 ZCZC W05 3360 L84 Relax, Rest, Nap, and Sleep
-ZCZC W05 95 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W05 105 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
 ZCZC W05 630 L87 Breakfast/Lunch/Dinner/Snack
-L88 Workout/Sport/Exercise/ETC.
-ZCZC W05 1820 L98 Else that is not related with this Operating Systems class.
-L99 Other (...)
+ZCZC W05 2010 L98 Else that is not related with this Operating Systems class.
 ZCZC W04 740 L01 SCELE/Discord related
 ZCZC W04 1050 L02 CLASSROOM/ZOOM meetings related
 ZCZC W04 17 L03 GitHub and git related, including commit, push, pull
