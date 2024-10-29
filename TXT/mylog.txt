@@ -3,6 +3,35 @@
 # LogCode + Description List
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W06 250 L01 SCELE/Discord related
+ZCZC W06 950 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 160 L03 GitHub and git related, including commit, push, pull
+ZCZC W06 5 L04 GitHub Pages related
+ZCZC W06 421 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 20 L07 Demo related
+ZCZC W06 100 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W06 250 L16 Assignment #06
+ZCZC W06 25 L22 Linux CLI including tar, etc.
+ZCZC W06 5 L23 Bash, Regex, SED, AWK.
+ZCZC W06 20 L25 C-language including Make.
+ZCZC W06 7 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W06 12 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W06 79 L40 TXT/ related in general.
+ZCZC W06 50 L41 TXT/mylog.txt related.
+ZCZC W06 15 L43 TXT/myrank.txt related, including peer review.
+ZCZC W06 5 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W06 5 L45 TXT/SHA256SUM related
+ZCZC W06 100 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W06 95 L64 Helping a friend (OS related problem)
+ZCZC W06 208 L70 Studying for other courses.
+ZCZC W06 1126 L73 Gaming including Board Games.
+ZCZC W06 60 L80 Watching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W06 219 L81 Listening: Radio, Music, etc.
+ZCZC W06 421 L82 Reading Book (paper or online)
+ZCZC W06 3360 L84 Relax, Rest, Nap, and Sleep
+ZCZC W06 145 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W06 630 L87 Breakfast/Lunch/Dinner/Snack
+ZCZC W06 2535 L98 Else that is not related with this Operating Systems class.
 ZCZC W05 280 L01 SCELE/Discord related
 ZCZC W05 1200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W05 23 L03 GitHub and git related, including commit, push, pull
@@ -17,7 +46,7 @@ ZCZC W05 5 L23 Bash, Regex, SED, AWK.
 ZCZC W05 20 L25 C-language including Make.
 ZCZC W05 16 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W05 17 L27 SSH, key-gen, tunneling, putty, winscp
-ZCZC W03 39 L32 YouTube: watching OS related topics, etc.
+ZCZC W05 39 L32 YouTube: watching OS related topics, etc.
 ZCZC W05 55 L40 TXT/ related in general.
 ZCZC W05 35 L41 TXT/mylog.txt related.
 ZCZC W05 10 L43 TXT/myrank.txt related, including peer review.
