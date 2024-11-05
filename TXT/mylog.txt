@@ -3,6 +3,36 @@
 # LogCode + Description List
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W07 514 L01 SCELE/Discord related
+ZCZC W07 1050 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 15 L03 GitHub and git related, including commit, push, pull
+ZCZC W07 5 L04 GitHub Pages related
+ZCZC W07 15 L05 Quiz related including studying
+ZCZC W07 636 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 43 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W07 300 L17 Assignment #07
+ZCZC W07 100 L22 Linux CLI including tar, etc.
+ZCZC W07 10 L23 Bash, Regex, SED, AWK.
+ZCZC W07 5 L25 C-language including Make.
+ZCZC W07 10 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W07 23 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W07 16 L32 YouTube: watching OS related topics, etc.
+ZCZC W07 48 L40 TXT/ related in general.
+ZCZC W07 35 L41 TXT/mylog.txt related.
+ZCZC W07 10 L43 TXT/myrank.txt related, including peer review.
+ZCZC W07 3 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W07 40 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W07 41 L64 Helping a friend (OS related problem)
+ZCZC W07 231 L70 Studying for other courses.
+ZCZC W07 15 L72 Online Related Job, merchant, etc.
+ZCZC W07 1081 L73 Gaming including Board Games.
+ZCZC W07 150 L80 Watching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W07 630 L81 Listening: Radio, Music, etc.
+ZCZC W07 636 L82 Reading Book (paper or online)
+ZCZC W07 3360 L84 Relax, Rest, Nap, and Sleep
+ZCZC W07 97 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W07 630 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W07 1246 L98 Else that is not related with this Operating Systems class.
 ZCZC W06 250 L01 SCELE/Discord related
 ZCZC W06 950 L02 CLASSROOM/ZOOM meetings related
 ZCZC W06 160 L03 GitHub and git related, including commit, push, pull

@@ -19,6 +19,8 @@ permalink: LINKS/
 - [What's Virtual Memory](https://youtu.be/5lFnKYCZT5o?si=CFanGIf_UpTcHWCt) --- This is an introductory video about virtual memory. This video also explains why would we want virtual memory in real life.
 - [Process Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgKl0MbI6kbI5ffNt7BF8Fn) --- This is a playlist about processes. The playlist explains everything from what is a process to message passing.
 - [Threads](https://www.youtube.com/watch?v=mBCMbR8AHxg) --- This is a lecture about threads. The slides is identical to the one used in class.
+- [Process Synchronization Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) --- This is a playlist that explains about Process Syncronization.
+- [Deadlock](https://www.youtube.com/watch?v=UVo9mGARkhQ) --- This is a video that explains about deadlock, conditions for a deadlock, and how to handle it. 
 - [Arknights Song Collection](https://youtube.com/playlist?list=PLYNMFG-_-1eOIeGjijtuTe124edSM1CZu&si=eP-pykvQBsP6iP_X) --- My go-to songs collection when doing assignments. If you want some music to listen, go check out this playlist.
 
 <br>
