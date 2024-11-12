@@ -21,11 +21,12 @@ permalink: LINKS/
 - [Threads](https://www.youtube.com/watch?v=mBCMbR8AHxg) --- This is a lecture about threads. The slides is identical to the one used in class.
 - [Process Synchronization Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) --- This is a playlist that explains about Process Syncronization.
 - [Deadlock](https://www.youtube.com/watch?v=UVo9mGARkhQ) --- This is a video that explains about deadlock, conditions for a deadlock, and how to handle it. 
+- [CPU Scheduling Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk) --- A full playlist that explains about CPU scheduling. It includes intro, types of scheduling, SJF, and many more topics about CPU scheduling.
 - [Arknights Song Collection](https://youtube.com/playlist?list=PLYNMFG-_-1eOIeGjijtuTe124edSM1CZu&si=eP-pykvQBsP6iP_X) --- My go-to songs collection when doing assignments. If you want some music to listen, go check out this playlist.
 
 <br>
 <br>
-#### Rev: Mon 28 Oct 2024 20:30
+#### Rev: Sat 09 Nov 2024 15:00
 <hr>
 
 #### Acknowledgement(s):
